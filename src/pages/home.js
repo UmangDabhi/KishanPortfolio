@@ -62,7 +62,7 @@ const Home = () => {
           >
             <p>Posters</p>
             <p>&</p>
-            <p>Convers</p>
+            <p>Book Covers</p>
           </div>
         </div>
       </div>
