@@ -81,7 +81,7 @@ const Projects = () => {
   };
   return (
     <>
-      <div className="bg-[#2A2A2A] h-screen overflow-hidden ">
+      <div className="bg-[#2A2A2A] righteous-regular h-screen overflow-hidden ">
         <Header Title={"Projects"} />
         <div className="flex flex-col h-full md:w-4/6 mx-auto">
           <div className="grid m-4 gap-5 h-full overflow-y-auto hide-scrollbar">
